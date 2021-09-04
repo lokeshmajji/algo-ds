@@ -1,6 +1,6 @@
 package org.lokeshmajji;
 
-public class Main {
+public class URLify {
 
     public static void main(String[] args) {
         System.out.println(urlify2("Mr John Smith a b        ",17));
